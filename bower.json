@@ -1,0 +1,21 @@
+{
+  "name": "eu",
+  "description": "Enuygun.com task",
+  "main": "app.js",
+  "authors": [
+    "Emrah Kumru"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
